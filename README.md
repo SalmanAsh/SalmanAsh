@@ -13,7 +13,7 @@
 
 
 ### Connect me with me on LinkedIn:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/salman-ashraf2513/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -45,6 +45,6 @@
 
 </details>
 
-[website]: https://ashrafsalman.com/
+[my website]: https://ashrafsalman.com/
 [instagram]: https://www.instagram.com/?hl=en
 [linkedin]: https://www.linkedin.com/in/salman-ashraf2513/
