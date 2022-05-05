@@ -1,6 +1,6 @@
 ### Hello World, I'm Salman  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/SalmanAsh/SalmanAsh/blob/46b8399ffd8fa9f5a05a98f6efe19bbfe16c2d5f/13572508.jpg" width="500" height="320" />
 
 
 ## I'm 20, and a CS student in Manchester!!
@@ -29,21 +29,7 @@
 
 <br />
 <br />
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
 
 [my website]: https://ashrafsalman.com/
 [instagram]: https://www.instagram.com/?hl=en
