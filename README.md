@@ -4,7 +4,7 @@
 
 
 ## I'm 20, and a CS student in Manchester!!
-- ✍ You can find out more about me on [my website](ashrafsalman.com)
+- ✍ You can find out more about me on [my website]
 - 🔭 I’m currently doing my foundation at UoM
 - 🌱 I’m currently working on improving my Python skills
 - 💬 Ask me about ... Anything
