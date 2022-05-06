@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/SalmanAsh/SalmanAsh/blob/46b8399ffd8fa9f5a05a98f6efe19bbfe16c2d5f/13572508.jpg" width="500" height="320" />
 
 
-## I'm 20, and a CS student in Manchester!!
+## I'm 20, and a CS student from Manchester!!
 - ✍ You can find out more about me on [my website]
 - 🔭 I’m currently doing my foundation at UoM
 - 🌱 I’m currently working on improving my Python skills
