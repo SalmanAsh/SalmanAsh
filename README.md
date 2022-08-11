@@ -33,4 +33,4 @@
 
 [my website]: https://ashrafsalman.com/
 [instagram]: https://www.instagram.com/?hl=en
-[linkedin]: https://www.linkedin.com/in/salman-ashraf2513/
+[linkedin]: https://www.linkedin.com/in/salman-ash/
