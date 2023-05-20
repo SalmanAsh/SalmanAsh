@@ -5,7 +5,7 @@
 
 ## I'm a Computer Science student from Manchester!!
 - ✍ You can find out more about me on [my website]
-- 🔭 I’m currently doing my foundation at UoM
+- 🔭 I’m currently doing my frist year at UoM
 - 🌱 I’m currently working on improving my Python skills
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I am fluent in 5 languages ( English, Italian, Urdu, Hindi, and Punjabi)
