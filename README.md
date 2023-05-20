@@ -8,7 +8,6 @@
 - 🔭 I’m currently doing my foundation at UoM
 - 🌱 I’m currently working on improving my Python skills
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: he/Him
 - ⚡ Fun fact: I am fluent in 5 languages ( English, Italian, Urdu, Hindi, and Punjabi)
 
 
